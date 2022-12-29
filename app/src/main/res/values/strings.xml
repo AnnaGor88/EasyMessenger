@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Messenger</string>
+    <string name="textviewInput"> </string>
+    <string name="textMessage"> Type your message</string>
+    <string name="buttonSendMessage">Send Message</string>
+    <string name="textviewYourMessage">Your message:</string>
+</resources>
